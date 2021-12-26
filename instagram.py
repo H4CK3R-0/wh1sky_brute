@@ -18,14 +18,18 @@ end_banner_color="\33[00m"
 onlyPasswords = False
 
 
+os.system("clear")
+
+
+
 os.system("figlet x_hack3r_x")
 
 
 
 print('''
-Kod Sahibi : x_hack3r_x
-İnstagram : x_hack3r_x
-Youtube : x_hack3r_x
+Kod Sahibi :@x_hack3r_x
+İnstagram :@x_hack3r_x
+Youtube :@x_hack3r_x
 
 ''')
 
