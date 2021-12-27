@@ -17,7 +17,6 @@ banner_color="\033[1;33;40m"
 end_banner_color="\33[00m"
 onlyPasswords = False
 
-
 os.system("clear")
 
 
@@ -26,13 +25,14 @@ os.system("figlet x_hack3r_x")
 
 
 
-print('''
+print ('''
+
+__________________________________
 Kod Sahibi :@x_hack3r_x
-İnstagram :@x_hack3r_x
-Youtube :@x_hack3r_x
-
+ İnstagram :@x_hack3r_x
+ Youtube :@x_hack3r_x
+___________________________________
 ''')
-
 
 
 class InstaBrute(object):
