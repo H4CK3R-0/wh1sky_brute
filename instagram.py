@@ -26,12 +26,14 @@ os.system("figlet x_hack3r_x")
 
 
 print ('''
-
 __________________________________
-Kod Sahibi :@x_hack3r_x
+ Kod Sahibi :@x_hack3r_x
  İnstagram :@x_hack3r_x
  Youtube :@x_hack3r_x
-___________________________________
+__________________________________
+
+C.H.T Sunar ...
+__________________________________
 ''')
 
 
