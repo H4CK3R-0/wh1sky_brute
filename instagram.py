@@ -21,18 +21,14 @@ os.system("clear")
 
 
 
-os.system("figlet x_hack3r_x")
+os.system("figlet wh1sky")
 
 
 
 print ('''
 __________________________________
- Kod Sahibi :@x_hack3r_x
- İnstagram :@x_hack3r_x
- Youtube :@x_hack3r_x
-__________________________________
-
-C.H.T Sunar ...
+ Kod Sahibi :@wh1sky
+ İnstagram :@__wh1sky___
 __________________________________
 ''')
 
